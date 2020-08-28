@@ -32,4 +32,4 @@ Superhero API: https://superheroapi.com
 ```
 
 ## License
-[MIT](LICENSE.md)
+[MIT](LICENSE)

@@ -1,4 +1,4 @@
-# irc-chatbot
+# irc-bot
 Interactive Chatbot that returns weather and superhero data to the user
 
 ## Requirements
